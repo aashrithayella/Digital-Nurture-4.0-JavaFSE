@@ -1,0 +1,15 @@
+23:17:56.062 [com.example.LoggingExample.main()] ERROR com.example.LoggingExample - This is an error message
+23:17:56.064 [com.example.LoggingExample.main()] WARN  com.example.LoggingExample - This is a warning message
+23:21:38.549 [com.example.LoggingExample.main()] ERROR com.example.LoggingExample - This is an error message
+23:21:38.551 [com.example.LoggingExample.main()] WARN  com.example.LoggingExample - This is a warning message
+23:22:03.885 [com.example.LoggingExample.main()] ERROR com.example.LoggingExample - This is an error message
+23:22:03.889 [com.example.LoggingExample.main()] WARN  com.example.LoggingExample - This is a warning message
+23:22:50.391 [com.example.LoggingExample.main()] ERROR com.example.LoggingExample - This is an error message
+23:22:50.393 [com.example.LoggingExample.main()] WARN  com.example.LoggingExample - This is a warning message
+23:24:38.790 [com.example.AppenderExample.main()] DEBUG com.example.AppenderExample - This is a DEBUG message
+23:24:38.791 [com.example.AppenderExample.main()] INFO  com.example.AppenderExample - This is an INFO message
+23:24:38.793 [com.example.AppenderExample.main()] WARN  com.example.AppenderExample - This is a WARN message
+23:24:38.794 [com.example.AppenderExample.main()] ERROR com.example.AppenderExample - This is an ERROR message
+23:27:51.645 [com.example.ParameterizedLoggingExample.main()] INFO  c.e.ParameterizedLoggingExample - User Alice of age 30 has logged in
+23:27:51.647 [com.example.ParameterizedLoggingExample.main()] WARN  c.e.ParameterizedLoggingExample - User Alice tried to access a restricted area
+23:27:51.647 [com.example.ParameterizedLoggingExample.main()] ERROR c.e.ParameterizedLoggingExample - Failed login attempt for user Alice
